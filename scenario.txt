@@ -1,0 +1,4 @@
+start_x: 2
+start_y: 2
+goal_x: 20
+goal_y: 20
